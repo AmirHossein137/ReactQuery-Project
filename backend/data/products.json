@@ -1,32 +1,137 @@
 {
     "data": [
         {
-            "id": 1,
-            "title": "Galaxy Z Flip6",
-            "image": "http://localhost:3000/image/z-flip.jpg",
-            "price": "1,219.99",
-            "text": "Hi there Jp2024 Thanks for taking the time to review your Samsung Galaxy Z Flip6. We appreciate your honesty as we strive to provide the very best products with superior functionality on the market to our customers while we remain committed to constant innovation. Our goal is for our customers to feel like they are having the most unforgettable experiences while using our products. Samsung provides a 12-month warranty on our products for manufacturing defects in materials and workmanship, linked below. We would love nothing more than to be able to assist you with what you may be currently experiencing with your brand-new Galaxy Z Flip6, however, we need more information than we currently have available at this time. When you have the opportunity available, please reach out to Samsung Support for further assistance in troubleshooting your device. Thank you for being a loyal Samsung customer"
+            "title": "گوشی موبایل S22",
+            "image": "http://localhost:3000/images/galaxy-s22-plus.jpg",
+            "price": "10000000",
+            "text": "qwjehkjqhwhe",
+            "id": 1
         },
         {
             "id": 2,
-            "title": "Galaxy S23 FE",
-            "image": "http://localhost:3000/image/S23-FE.webp",
-            "price": "689.99",
-            "text" : "I've been using the S23FE (SD 8gen1 ver.) for a few weeks now and I think I've gotten used to it as it has me and my usage. For the most part, it's a great phone. I upgraded from the S20 5G mostly for the flat screen, but also for One UI 6. I do miss having an SD card slot but I'll eventually get a NAS box since it seems Samsung makes connecting the phone to that pretty simple. Pros of the S23FE: - Beautiful big-enough screen and display (go team flat screen!) Also nice back color - nice cameras - can run games pretty well for the most part, I play emulated games and the phone runs them great. - battery lasts a long time for me, even when gaming - for me, the phone hasn't gotten hot yet. I know thermal management is an issue with this phone but I haven't run into it Cons: - there is a sliiight lag sometimes when scrolling in adaptive mode, also when playing FGO there's been stutters here and there. Not sure why. - heavy, sometimes uncomfortable to hold if there's a bulky case on it Anyways that's my review, I plan on using this phone for a long time."
+            "title": "لپتاپ MacBook Air MGN63",
+            "price": 75000000,
+            "image": "http://localhost:3000/images/macbook-air-mgn63.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
         },
         {
             "id": 3,
-            "title": "Galaxy A35 5G",
-            "image": "http://localhost:3000/image/A35.webp",
-            "price": "399.99",
-            "text" : "The a35 had been a massive upgrade for me but one thing that I have not enjoyed is how soft the frame is It has taken a dent from small drop. Despite this every other aspect about the phone is amazing"
+            "title": "گوشی موبایل Galaxy S23",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/galaxy-s23-ultra.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
         },
         {
             "id": 4,
-            "title": "Galaxy S24+",
-            "image": "http://localhost:3000/image/s-24.webp",
-            "price": "1,119.99",
-            "text" : "I have long been a loyal fan of Samsung products for years and the Galaxy S24+ will only reinforce that opinion. It is sleek, stylish and comfortable to use, has a great camera and like the Samsung phones of the past, it is extremely durable. Are there some things about it that I would change? Sure, but mostly these are features from older models that I found practical and useful in the past but no longer exist. I am not a member of Gen Z, or Gen Y, X or W, for that matter, so I tend to get comfortable with a product and don't want to go through a re-learning process when a new model comes out, and Samsung has done pretty well in this regard but I do miss certain things"
+            "title": "ساعت هوشمند",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image1.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 5,
+            "title": "هندزفری",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image2.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 6,
+            "title": "هدفون",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image3.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 7,
+            "title": "کتاب والدین سمی",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image4.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 8,
+            "title": "کتاب پرایس اکشن",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image5.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 9,
+            "title": "کتاب های هری پاتر",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image6.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 11,
+            "title": "کتاب قانون توانگر",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image7.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 12,
+            "title": "گوشی موبایل سامسونگ",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image8.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 13,
+            "title": "لپتاپ MacBook Air MGN63",
+            "price": 75000000,
+            "image": "http://localhost:3000/images/macbook-air-mgn63.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "title": "گوشی موبایل S22",
+            "image": "http://localhost:3000/images/galaxy-s22-plus.jpg",
+            "price": "10000000",
+            "text": "qwjehkjqhwhe",
+            "id": 14
+        },
+        {
+            "id": 15,
+            "title": "ساعت هوشمند",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image1.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 16,
+            "title": "کتاب پرایس اکشن",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image5.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 17,
+            "title": "هدفون",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image3.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 18,
+            "title": "کتاب والدین سمی",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image4.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "id": 19,
+            "title": "کتاب پرایس اکشن",
+            "price": 26000000,
+            "image": "http://localhost:3000/images/fake-image5.jpg",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده "
+        },
+        {
+            "title": "گوشی موبایل Galaxy S23",
+            "image": "http://localhost:3000/images/galaxy-s23-ultra.jpg",
+            "price": "27000000",
+            "text": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد کتابهای زیادی در شصت و سه درصد گذشته حال و آینده ",
+            "id": 20
         }
     ]
 }

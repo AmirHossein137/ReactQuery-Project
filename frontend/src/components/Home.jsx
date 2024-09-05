@@ -1,8 +1,16 @@
-
+import { useQuery } from "@tanstack/react-query";
+import axios from 'axios'
 const Home = () => {
-  return (
-    <div>Home</div>
-  )
-}
+  const { data } = useQuery({
+    queryKey: ["products"],
+    queryFn: async () => {
+      return axios.get('http://localhost:3000/products')
+    },
+  });
 
-export default Home
+  console.log(data);
+
+  return <div>Home</div>;
+};
+
+export default Home;
