@@ -1,16 +1,27 @@
 import { useQuery } from "@tanstack/react-query";
 import axios from 'axios'
+import ProductCard from "./ProductCard";
+
 const Home = () => {
-  const { data } = useQuery({
+  const { data , isLoading } = useQuery({
     queryKey: ["products"],
     queryFn: async () => {
-      return axios.get('http://localhost:3000/products')
+      return axios.get('https://api.escuelajs.co/api/v1/products')
     },
+
   });
 
-  console.log(data);
+  console.log(data.data);
 
-  return <div>Home</div>;
+  return (
+    <>
+    <div className="grid grid-cols-5 gap-3">
+      {data?.data?.map((item) => (
+        <ProductCard key={item.id} item={item} />
+      ))}
+    </div>
+    </>
+  )
 };
 
 export default Home;
