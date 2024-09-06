@@ -1,11 +1,7 @@
-const ProductCard = ({ key, title, description, images, price }) => {
+const ProductCard = () => {
   return (
-    <div key={key} className="shadow p-2 border rounded-lg border-gray-200">
-      <div>
-        {images.map((i) => (
-          <img src={i.substring(2, i.length - 2)} />
-        ))}
-      </div>
+    <div>
+        ProductCard
     </div>
   );
 };
