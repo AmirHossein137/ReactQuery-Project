@@ -10,6 +10,8 @@ const Home = () => {
     },
   });
 
+
+
   return (
     <>
       <div className="grid grid-cols-5 gap-5 mb-10">
@@ -20,7 +22,6 @@ const Home = () => {
             title={item.title}
             image={item.image}
             price={item.price}
-            description={item.description}
           />
         ))}
       </div>

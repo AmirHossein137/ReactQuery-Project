@@ -8,18 +8,18 @@
       "description": "In terms of appearance, the Galaxy A55 is so similar to the S series smartphones that some may have trouble distinguishing it from the flagship series. 161.1 x 77.4 x 8.2 mm are the dimensions that Samsung has considered for this phone; Also, the weight of the product reaches 213 grams. The material of the back panel is glass and its frame is also aluminum. According to the IP67 standard, Samsung A55 can withstand water up to a depth of 1 meter for 30 minutes. In the screen section of the phone, we see a 6.6-inch Super AMOLED panel with a resolution of 1080 x 2340. Gorilla Glass Victus Plus is responsible for protecting this screen from scratches and shocks. Support for HDR10+, 1000 nits brightness, 120 Hz refresh rate and always on display support are other features of this Samsung Galaxy screen. In general, we are dealing with a mid-range product; But its screen has a lot of power and is of high quality."
     },
     {
-      "id": "2",
       "title": "Galaxy Samsung A15 5G",
       "image": "https://www.technolife.ir/image/color_image_TLP-32037_74c1f6_c15c2be0-5580-4f72-9712-3aa22914057a.png",
       "price": "7650000",
-      "description": "In addition to the price of the mobile phone, which is very reasonable, Samsung has also designed the phone. This Samsung smartphone weighs 200 grams and its dimensions are 160.1 x 76.8 x 8.4 mm. Considering the price of this phone, it is not far from the expectation that Samsung will use a plastic frame for its body. Samsung a15 uses a 6.5-inch Super AMOLED screen with a brightness of up to 800 nits and a resolution of 1080 x 2340 pixels. This screen has a refresh rate of 90 Hz, which is ideal for normal use. Samsung has launched the a15 in yellow, black and two blue colors."
+      "description": "In addition to the price of the mobile phone, which is very reasonable, Samsung has also designed the phone. This Samsung smartphone weighs 200 grams and its dimensions are 160.1 x 76.8 x 8.4 mm. Considering the price of this phone, it is not far from the expectation that Samsung will use a plastic frame for its body. Samsung a15 uses a 6.5-inch Super AMOLED screen with a brightness of up to 800 nits and a resolution of 1080 x 2340 pixels. This screen has a refresh rate of 90 Hz, which is ideal for normal use. Samsung has launched the a15 in yellow, black and two blue colors.",
+      "id": "2"
     },
     {
-      "id": "3",
       "title": "Galaxy Samsung S24 Ultra 5G",
       "image": "https://www.technolife.ir/image/color_image_TLP-33617_4b68135c-e33c-46f5-8f23-a5e3dcb111f0.png",
       "price": "59299000",
-      "description": "It is true that at first glance, the Samsung Galaxy S24 Ultra looks very similar to the previous generation, but this phone has also had changes that make it more worthy of the flagship name than before. The Koreans have reduced the thickness of this model by 0.3 mm compared to before, and now we see a grade 2 titanium frame instead of aluminum, an improvement that Apple introduced in the iPhone 15 Pro Max to the mobile world. The design of the back frame is exactly the same as before, and the camera lens is seen as an island without a frame on the top left side of the frame. In this generation, we also see a new color scheme, and as always, the IP68 certificate is also considered for the s24ultra. You will also have access to the attractive S-Pen and remember the good memories of the Note series."
+      "description": "It is true that at first glance, the Samsung Galaxy S24 Ultra looks very similar to the previous generation, but this phone has also had changes that make it more worthy of the flagship name than before. The Koreans have reduced the thickness of this model by 0.3 mm compared to before, and now we see a grade 2 titanium frame instead of aluminum, an improvement that Apple introduced in the iPhone 15 Pro Max to the mobile world. The design of the back frame is exactly the same as before, and the camera lens is seen as an island without a frame on the top left side of the frame. In this generation, we also see a new color scheme, and as always, the IP68 certificate is also considered for the s24ultra. You will also have access to the attractive S-Pen and remember the good memories of the Note series.",
+      "id": "3"
     },
     {
       "id": "4",
@@ -29,11 +29,11 @@
       "description": "This smartphone weighs 188.5 grams and its dimensions are 162.3 x 75.6 x 8. The body of the phone is equipped with an IP54 certificate to resist splashing water. The AMOLED screen of the Xiaomi Note 13 is 6.67 inches and has a resolution of 1080 x 2400 pixels. This screen has a refresh rate of 120 Hz and its brightness easily reaches 1800 nits. On the back of the Xiaomi Note 13, we see a triple camera setup. In the frame of the phone, we see the USB-C charging port, 3.5 mm jack for connecting headphones and wired hands-free, speaker and microphone."
     },
     {
-      "id": "5",
       "title": "Xiaomi Redmi A3",
       "image": "https://www.technolife.ir/image/color_image_TLP-34773_f1608d90-f5e5-428d-a073-a41f9405029b.png",
       "price": "5230000",
-      "description": "The screen intended for this Xiaomi phone has a size of 6.71 inches and uses HD+ resolution to see 268 pixels per inch. This IPS display, which has managed to occupy about 83% of the front view, also supports a 90 Hz refresh rate so that you have a smoother feeling when working with the phone. The quality of this panel is good in relation to the price range and the refresh rate 90 Hz also makes you see the content more smoothly and working with the Xiaomi a3 phone feels better. According to the claim of the Chinese manufacturer, the brightness of this screen can increase up to 500 nits, which is not a great number, but it cannot be faulted either."
+      "description": "The screen intended for this Xiaomi phone has a size of 6.71 inches and uses HD+ resolution to see 268 pixels per inch. This IPS display, which has managed to occupy about 83% of the front view, also supports a 90 Hz refresh rate so that you have a smoother feeling when working with the phone. The quality of this panel is good in relation to the price range and the refresh rate 90 Hz also makes you see the content more smoothly and working with the Xiaomi a3 phone feels better. According to the claim of the Chinese manufacturer, the brightness of this screen can increase up to 500 nits, which is not a great number, but it cannot be faulted either.",
+      "id": "5"
     },
     {
       "id": "6",
@@ -64,13 +64,6 @@
       "description": "In terms of appearance, the Galaxy A55 is so similar to the S series smartphones that some may have trouble distinguishing it from the flagship series. 161.1 x 77.4 x 8.2 mm are the dimensions that Samsung has considered for this phone; Also, the weight of the product reaches 213 grams. The material of the back panel is glass and its frame is also aluminum. According to the IP67 standard, Samsung A55 can withstand water up to a depth of 1 meter for 30 minutes. In the screen section of the phone, we see a 6.6-inch Super AMOLED panel with a resolution of 1080 x 2340. Gorilla Glass Victus Plus is responsible for protecting this screen from scratches and shocks. Support for HDR10+, 1000 nits brightness, 120 Hz refresh rate and always on display support are other features of this Samsung Galaxy screen. In general, we are dealing with a mid-range product; But its screen has a lot of power and is of high quality."
     },
     {
-      "id": "10",
-      "title": "Apple iPhone 13 Pro",
-      "image": "https://www.technolife.ir/image/color_image_TLP-26382_023b8eee-6cee-47a6-814e-702911fd4161.png",
-      "price": "90000000",
-      "description": "In the design department, Poco X6 Pro, with the modern and attractive design language of Poco phones, can attract the attention of users at the first glance. The body of the Poco X6 Pro, like most Xiaomi phones, is made of glass and plastic material, which, in addition to its attractive appearance, is also highly durable against scratches and scratches. It goes without saying that this phone, having the IP54 standard, can easily withstand dust and water."
-    },
-    {
       "id": "11",
       "title": "Apple iPhone 13",
       "image": "https://www.technolife.ir/image/color_image_TLP-4993_1a1a1a_53b03903-1fb7-440b-811d-899a7fd776a9.png",
@@ -97,13 +90,6 @@
       "image": "https://www.technolife.ir/image/color_image_TLP-18650_1a1a1a_95f0d29a-b03b-4cbf-81f3-cc00b2be3d22.png",
       "price": "23599000",
       "description": "Every year, Apple's flagships are one of the most attractive phones in the market and they make a lot of noise after their introduction. This year, the new generation of Apple's flagships, i.e. iPhone 13 Mini, iPhone 13, iPhone 13 Pro and iPhone 13 Pro Max, were introduced. In this article, we are going to go to Apple's mid-range flagship, the iPhone 13, and examine this phone from different angles to determine its purchase value."
-    },
-    {
-      "id": "0ace",
-      "title": "test",
-      "image": "https://www.technolife.ir/image/color_image_TLP-31023_ffee59_5c1d7cad-a6ea-4bb4-954d-31aa724ff776.png",
-      "price": "20",
-      "description": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
     }
   ]
 }

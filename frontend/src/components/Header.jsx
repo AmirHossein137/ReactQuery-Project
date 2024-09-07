@@ -3,6 +3,7 @@ import { NavLink } from "react-router-dom";
 const headerLink = [
   { id: 1, name: "Home", href: "/" },
   { id: 2, name: "Add Product", href: "/add-product" },
+  { id: 3, name : "Pagination" , href : "/pagination" }
 ];
 
 const Header = () => {

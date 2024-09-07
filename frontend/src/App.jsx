@@ -7,6 +7,7 @@ import Single from "./components/Single";
 import AddProduct from "./components/AddProduct";
 import Edit from "./components/Edit";
 import { Toaster } from "react-hot-toast"
+import Paginate from "./components/Paginate";
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -31,6 +32,7 @@ function App() {
             <Route path="/add-product" element={<AddProduct />}/>
             <Route path="/single/:id" element={<Single />}/>
             <Route path="/edit/:id" element={<Edit />}/>
+            <Route path="/pagination" element={<Paginate />}/>
           </Routes>
         </Layout>
       </QueryClientProvider>
