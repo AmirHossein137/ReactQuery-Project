@@ -9,6 +9,7 @@ import Edit from "./components/Edit";
 import { Toaster } from "react-hot-toast";
 import Paginate from "./components/Paginate";
 import InfinityQuery from "./components/InfinityQuery";
+import ParallelQueries from "./components/ParallelQueries";
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -35,6 +36,7 @@ function App() {
             <Route path="/edit/:id" element={<Edit />} />
             <Route path="/pagination" element={<Paginate />} />
             <Route path="/infinityQuery" element={<InfinityQuery />} />
+            <Route path="/parallelqueries" element={<ParallelQueries />}/>
           </Routes>
         </Layout>
       </QueryClientProvider>

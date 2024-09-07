@@ -5,7 +5,7 @@ const headerLink = [
   { id: 2, name: "Add Product", href: "/add-product" },
   { id: 3, name : "Pagination" , href : "/pagination" },
   { id: 4, name : "InfinityQuery" , href:"/infinityQuery"},
-  { id: 5, name : "ParallelQueries" , href : "/parallelQueries" }
+  { id: 5, name : "ParallelQueries" , href : "/parallelqueries" }
 ];
 
 const Header = () => {
