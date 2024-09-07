@@ -1,44 +1,38 @@
-import { useState } from "react";
-import { useMutation } from "@tanstack/react-query";
+import { useState , useEffect } from "react";
+import { useQuery } from "@tanstack/react-query";
+import { useParams } from "react-router-dom";
 import axios from "axios";
-import toast from "react-hot-toast";
-import { useNavigate } from "react-router-dom";
 
-const AddProduct = () => {
-  const [formValues, setFormValues] = useState({});
-  const navigate = useNavigate();
+const Edit = () => {
+  const [editValue, setEditValue] = useState({});
+
+  const { id } = useParams();
+
+  console.log(id)
 
   const handleChange = (e) => {
-    setFormValues({
-      ...formValues,
+    setEditValue({
+      ...editValue,
       [e.target.name]: e.target.value,
     });
   };
 
-  const addProduct = useMutation({
-    mutationKey: ["add-product"],
-    mutationFn: (params) => {
-      return axios.post("http://localhost:3000/products", params);
+  const { data , } = useQuery({
+    queryKey : ['get-data' , id],
+    queryFn : () => {
+      return axios.get(`http://localhost:3000/products/${id}`)
     },
-    onSuccess: () => {
-      toast.success("Product Added...");
-      navigate("/");
-    },
-    onError : (error) => {
-      toast.error(error)
-    }
-  });
+  })
 
+  useEffect(() => {
 
-  const handleSubmit = (e) => {
-    e.preventDefault();
-    addProduct.mutate(formValues)
-  };
+  } , )
+
 
   return (
     <div className="max-w-lg mx-auto p-5 shadow-md rounded-xl border border-gray-200">
-      <span className="text-lg text-slate-900 font-bold">Add Product</span>
-      <form onSubmit={handleSubmit} className="flex flex-col gap-4 mt-5">
+      <span className="text-lg text-slate-900 font-bold">Edit Product</span>
+      <form className="flex flex-col gap-4 mt-5">
         <div className="flex flex-col gap-2">
           <label htmlFor="title" className="font-semibold">
             Title
@@ -49,6 +43,7 @@ const AddProduct = () => {
             type="text"
             name="title"
             placeholder="Enter Your Title ..."
+            value={editValue.title}
             onChange={handleChange}
           />
         </div>
@@ -62,6 +57,7 @@ const AddProduct = () => {
             type="text"
             name="image"
             placeholder="Enter Your Image ..."
+            value={editValue.image}
             onChange={handleChange}
           />
         </div>
@@ -75,6 +71,7 @@ const AddProduct = () => {
             type="text"
             name="price"
             placeholder="Enter Your Price ..."
+            value={editValue.price}
             onChange={handleChange}
           />
         </div>
@@ -88,6 +85,7 @@ const AddProduct = () => {
             type="text"
             name="description"
             placeholder="Enter Your Description ..."
+            value={editValue.description}
             onChange={handleChange}
           />
         </div>
@@ -102,4 +100,4 @@ const AddProduct = () => {
   );
 };
 
-export default AddProduct;
+export default Edit;

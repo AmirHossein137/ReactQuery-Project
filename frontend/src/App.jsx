@@ -5,6 +5,8 @@ import Home from "./components/Home";
 import Layout from "./components/Layout";
 import Single from "./components/Single";
 import AddProduct from "./components/AddProduct";
+import Edit from "./components/Edit";
+import { Toaster } from "react-hot-toast"
 
 const queryClient = new QueryClient({
   defaultOptions: {
@@ -21,17 +23,18 @@ function App() {
   return (
     <>
       <QueryClientProvider client={queryClient}>
+        <Toaster />
         <ReactQueryDevtools />
         <Layout>
           <Routes>
             <Route path="/" element={<Home />} />
             <Route path="/add-product" element={<AddProduct />}/>
             <Route path="/single/:id" element={<Single />}/>
+            <Route path="/edit/:id" element={<Edit />}/>
           </Routes>
         </Layout>
       </QueryClientProvider>
     </>
   );
 }
-
 export default App;
